@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CallListener</string>
+
+    <string name="listening_enabled_notification">Listening active</string>
+
+    <string name="channel_description" translatable="false">This is the main channel for our app</string>
+    <string name="channel_name_mute" translatable="false">Main Channel (Mute)</string>
+
+    <string name="phone_state_permission_required_title">Read Phone State Permissions</string>
+    <string name="phone_state_permission_required_message">To continue using this app, Read Phone State permissions must be allowed</string>
+    <string name="process_outgoing_calls_permission_required_title">Process Outgoing Calls Permissions</string>
+    <string name="process_outgoing_calls_permission_required_message">To continue using this app, Process Outgoing Calls permissions must be allowed</string>
+    <string name="system_alert_window_permission_required_title">Draw On Top Permissions</string>
+    <string name="system_alert_window_permission_required_message">To continue using this app, Draw On Top permissions must be allowed</string>
+    <string name="permission_allow">Ask again</string>
+    <string name="go_to_app_settings">Go to Permissions</string>
+    <string name="exit">Exit</string>
+
+</resources>
